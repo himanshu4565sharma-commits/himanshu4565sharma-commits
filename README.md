@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi 👋 I'm Himanshu
 
-<!--
-**himanshu4565sharma-commits/himanshu4565sharma-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student passionate about Java, DSA and Web Development.
 
-Here are some ideas to get you started:
+Skills:
+- Java
+- Data Structures & Algorithms
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Graph Algorithms in Java
+- Todo List Web App
+
+Currently learning and building projects.
